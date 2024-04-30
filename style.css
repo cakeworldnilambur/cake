@@ -318,14 +318,14 @@ footer{
 
     .callnowtext{
             text-align: center;
-            font-size: 88%;
+            font-size: 112%;
             font-family: "Montserrat", sans-serif;
             margin-top: -6px;
             color: #a2f4ff;
             font-weight: 500;
             animation: blinker 2s linear infinite;
             text-decoration: none;
-            letter-spacing: 2px;
+            letter-spacing: 1px;
             
         }
     
